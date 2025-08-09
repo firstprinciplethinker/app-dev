@@ -41,4 +41,4 @@ st.button("📙 Book a Free Counselling Session")
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ in India by Manoj  \n© 2025 Way2Careers")
+st.markdown("Made with ❤️ in India by manoj  \n© 2025 Way2Careers")

@@ -10,7 +10,7 @@ st.set_page_config(
 # --- HOME PAGE CONTENT ---
 
 # Title and Tagline
-st.title("🎯 Welcome to Way2Careers")
+st.title("Welcome to Way2Careers")
 st.markdown("#### Guiding Students Towards the Right Career Path")
 
 # Banner Image (replace with your own URL or image file later)
@@ -36,8 +36,8 @@ st.markdown("""
 
 # Call to Action
 st.markdown("---")
-st.markdown("### 🗣️ Talk to a Career Expert Now")
-st.button("📙 Book a Free Counselling Session")
+st.markdown("### Talk to a Career Expert Now")
+st.button("Book a Free Counselling Session")
 
 # Footer
 st.markdown("---")
